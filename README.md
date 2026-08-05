@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ridam22/100DaysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Ridam22/100DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ridam22/100DaysLeetcodeChallenge/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Ridam22/100DaysLeetcodeChallenge/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -25,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Ridam22/100DaysLeetcodeChallenge/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Ridam22/100DaysLeetcodeChallenge/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
